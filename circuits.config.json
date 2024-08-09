@@ -1,0 +1,13 @@
+[
+  {
+    "name": "ThimCircuit",
+    "protocol": "groth16",
+    "circuit": "ThimCircuit/circuit.circom",
+    "input": "ThimCircuit/input.json",
+    "wasm": "ThimCircuit/out/circuit.wasm",
+    "zkey": "ThimCircuit/out/ThimCircuit.zkey",
+    "vkey": "ThimCircuit/out/ThimCircuit.vkey",
+    "r1cs": "ThimCircuit/out/ThimCircuit.r1cs",
+    "beacon": "0102030405060708090a0b0c0d0e0f101112131415161718191a1b1c1d1e1f"
+  }
+]
